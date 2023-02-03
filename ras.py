@@ -1,5 +1,5 @@
 
-TOKEN = '5752134323:AAGUpLrf-ugju9m7V1wUAJuDkHQTdggqQs4'
+TOKEN = '5752134323:AAHvGcoSSW-m8iqEgIF6Siwhbg7uAh2pBb4'
 no = 'Уроков нет❌'
 pn = """
 Понедельник-1
